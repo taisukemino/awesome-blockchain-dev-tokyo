@@ -12,6 +12,7 @@ List of content:
 - [Books](#books)
 - [Podcasts](#podcasts)
 - [Courses](#courses)
+- [Developer Programs](#developer-programs)
 - [Talks](#talks)
 - [Youtube Channels](#youtube-channels)
 - [Code Examples](#code-examples)
@@ -45,6 +46,9 @@ List of content:
 
 # <a name="courses">Courses</a>
 * [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide)
+
+# <a name="developer-programs">Developer Programs</a>
+* [ConsenSys Academy](https://consensys.net/academy/)
 
 # <a name="talks">Talks</a>
 * [Token Summit II - Cryptocurrency, Money, and the Future with Naval Ravikant](https://www.youtube.com/watch?v=few99D5WnRg)
